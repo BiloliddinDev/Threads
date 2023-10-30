@@ -6,10 +6,10 @@ import { dark } from "@clerk/themes";
 
 import "../globals.css";
 
-import Topbar from "@/Components/shared/Topbar";
-import Bottombar from "@/Components/shared/Bottombar";
-import LeftSidebar from "@/Components/shared/LeftSidebar";
-import RightSidebar from "@/Components/shared/RightSidebar";
+import Topbar from "@/components/shared/Topbar";
+import Bottombar from "@/components/shared/Bottombar";
+import LeftSidebar from "@/components/shared/LeftSidebar";
+import RightSidebar from "@/components/shared/RightSidebar";
 
 const inter = Inter({ subsets: ["latin"] });
 
